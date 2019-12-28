@@ -1,68 +1,60 @@
-# [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
+# Researcher
 
-[Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+### [Demo Website](http://ankitsultana.com/researcher)
 
-## Preview
+A clean, single column, monospace resume template built for jekyll
 
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
+### Installation
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+Simply fork the repository and edit away.
 
-## Status
+#### Installation via remote themes
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-resume/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-resume.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-resume)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume?type=dev)
+* Just setting `remote_theme: ankitsultana/researcher@gem` in `_config.yml` should work. Although in that case, I am not sure how
+you would build your site locally for testing. If you know how, open up an issue and let me know.
+* For more info, [refer this](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/).
 
-## Download and Installation
+### Customization
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/resume/)
-* Install via npm: `npm i startbootstrap-resume`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-resume.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-resume)
+* You can edit the `.md` (markdown) files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
 
-## Usage
+* You can of course remove `contact.md` if you don't want it
 
-### Basic Usage
+* To set the heading, edit the `title` variable in `_config.yml`
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+* To edit the `links` mentioned on the navigation bar, you can edit `_config.yml`. For example:
 
-### Advanced Usage
+```
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
+```
 
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+* You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
 
-#### Gulp Tasks
+* You can setup google analytics, by setting `tracking_id` in `_config.yml`
 
-- `gulp` the default task that builds everything
-- `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-- `gulp js` minifies the themes JS file
-- `gulp vendor` copies dependencies from node_modules to the vendor directory
+* To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
 
-You must have npm installed globally in order to use this build environment.
+```html
+<img class="profile-picture" src="sherlock.jpg">
+```
 
-## Bugs and Issues
+* You can remove/customize the footer as you like by setting the
+appropriate variables in `_config.yml`
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-resume/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/resume/).
+* (New in v1.2.0) You can add institute logo at the top, by setting `ins_logo` in `_config.yml`. If you want
+to adjust the logo's size, try setting `max-height` in `#ins-logo` in file `./_sass/_style.scss` to the desired
+value
 
-## About
+![Institute Logo Image Sample](https://github.com/ankitsultana/assets/raw/master/ins-logo-sample.png)
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+**Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
 
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
+### License
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
+[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
