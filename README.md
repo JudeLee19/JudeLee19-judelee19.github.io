@@ -1,60 +1,88 @@
-# Researcher
+---
+layout: default
+---
 
-### [Demo Website](http://ankitsultana.com/researcher)
+## Dongyub-Lee (jude.lee@kakaocorp.com)
 
-A clean, single column, monospace resume template built for jekyll
+<img class="profile-picture" src="profile.jpg">
+I obtained a Master Degree in computer science from the Korea University with a focus on a NLP such as dialog system and sequence labeling problems. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. After MS degree, I'm working at Kakao corporation.
 
-### Installation
+ <!-- This is a jekyll based resume template. You can find the full source code on [GitHub] --> 
+ <!-- (https://github.com/bk2dcradle/researcher) -->
 
-Simply fork the repository and edit away.
+## Research Interest
 
-#### Installation via remote themes
+Dialogue System, Multimodal Learning
 
-* Just setting `remote_theme: ankitsultana/researcher@gem` in `_config.yml` should work. Although in that case, I am not sure how
-you would build your site locally for testing. If you know how, open up an issue and let me know.
-* For more info, [refer this](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/).
+## Publications
+1. Integrating breakdown detection into dialogue systems to improve knowledge management: encoding temporal utterances with memory attention<br>
+SEOLHWA LEE, **DONGYUB LEE**, DANIAL, HOOSHYAR JAECHOON JO, HEUISEOK LIM <br>
+[*INFORMATION TECHNOLOGY AND MANAGEMENT-2019 (SCIE)*](https://link.springer.com/article/10.1007/s10799-019-00308-x)
 
-### Customization
+2. EmotionX-KU: BERT-Max based Contextual Emotion Classifier<br>
+Kisu Yang, **Dongyub Lee**, Taesun Whang, Seolhwa Lee, Heuiseok Lim<br>
+[*IJCAI 2019 Workshop on the 7th Natural Language Processing for Social Media (Shared Task, EmotionX), 2019, Macau.*](https://arxiv.org/pdf/1906.11565.pdf) 
 
-* You can edit the `.md` (markdown) files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
+3. Domain Adaptive Training BERT for Response Selection<br>
+Taesun Whang, **Dongyub Lee**, Chanhee Lee, Kisu Yang, Dongsuk Oh, HeuiSeok Lim<br>
+[*arXiv preprint*](https://arxiv.org/pdf/1908.04812.pdf)
 
-* You can of course remove `contact.md` if you don't want it
+4. Enhanced Sequential Representation Augmented with Utterance-level Attention for Response Selection<br>
+Taesun Whang, **Dongyub Lee**, Chanhee Lee, Heuiseok Lim<br>
+[*AAAI 2019 Workshop on Dialogue System Technology Challenges 7 (DSTC7), 2019, Hawaii, USA.*](http://workshop.colips.org/dstc7/papers/15.pdf)
 
-* To set the heading, edit the `title` variable in `_config.yml`
+5. Character-Level Feature Extraction with Densely Connected Networks<br>
+Chanhee Lee, Young-Bum Kim, **Dongyub Lee**, Heuiseok Lim<br>
+[*COLING 2018*](https://www.semanticscholar.org/paper/Character-Level-Feature-Extraction-with-Densely-Lee-Kim/2cf7fb912fb61066668cb6088f45ffbb16e2df03)
 
-* To edit the `links` mentioned on the navigation bar, you can edit `_config.yml`. For example:
+## Domestic Publications in Korean
+1. Adversarial Learning for Natural Language Understanding<br>
+**이동엽**, 황태선, 이찬희, 임희석<br>
+[*한글 및 한국어 정보처리-2018*]
 
-```
-nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
-```
+2. Attention 기반의 대화 발화 예측 모델<br>
+황태선, **이동엽**, 이찬희, 임희석<br>
+[*한글 및 한국어 정보처리-2018*] 
 
-* You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
+3. Bi-directional LSTM-CNN-CRF for Korean Named Entity Recognition System with Feature Augmentation<br>
+**이동엽**, 유원희, 임희석<br>
+[*한국융합학회논문지제 8권, 제 12호, pp.39-47, 2017.12*]
 
-* You can setup google analytics, by setting `tracking_id` in `_config.yml`
+4. 도메인 특정 지식을 결합한 End-to-End Learning 방식의 한국어 식당 예약 대화 시스템 모델 개발<br>
+**이동엽**, 김경민, 임희석<br>
+[*한글 및 한국어 정보처리-2017*]
 
-* To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
+5. 식당 예약 대화 시스템 개발을 위한 한국어 데이터셋 구축<br>
+김경민, **이동엽**, 임희석<br>
+[*한글 및 한국어 정보처리-2017*]
 
-```html
-<img class="profile-picture" src="sherlock.jpg">
-```
+6. End-to-end learning을 이용한 한국어 단문 응답 시스템 개발 <br>
+**이동엽**, 임희석<br>
+[*KCC-2017*]
 
-* You can remove/customize the footer as you like by setting the
-appropriate variables in `_config.yml`
+7. User Sentiment Analysis on Amazon Fashion Product Review Using Word Embedding<br>
+**이동엽**, 조재춘, 임희석<br>
+[*한국융합학회논문지, 제8권, 제4호, pp.1-8, 2017.04*]
 
-* (New in v1.2.0) You can add institute logo at the top, by setting `ins_logo` in `_config.yml`. If you want
-to adjust the logo's size, try setting `max-height` in `#ins-logo` in file `./_sass/_style.scss` to the desired
-value
+8. CNN based feature augmentation for SVM classifier<br>
+**이동엽**, 남상협, 나승훈<br>
+[*KCC-2016*]
 
-![Institute Logo Image Sample](https://github.com/ankitsultana/assets/raw/master/ins-logo-sample.png)
+## Honors & Awards
 
-**Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
+Year | Award
+:-----:|-------
+2019 | 2nd place in the EmotionX (shared task of SocialNLP), IJCAI 2019   
+2019 | Fourth place in the DSTC-7 tack-1 task, AAAI 2019
+2018 | 국어정보처리 경진대회 동상 (Dependency Parser), 한글 및 한국어 정보처리
+2018 | 카카오 연구 장학생
+2017 | 국어정보처리 경진대회 금상 (Named Entity Recoginition), 한글 및 한국어 정보처리 
+2016 | 소프트웨어 마에스트로 6기 (1단계 수료, 2단계 진출)
+2015 | 인하 스타트업 경진대회 동상
+2014 | 인하대학교 컴퓨터공학과 프로그래밍 공모전 2위
 
-### License
 
-[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
+
+ <!-- This is a [link](http://google.com). Something *italics* and something **bold**.-->
+ <!-- Here is a horizontal rule --- -->
+ <!-- Here is a blockquote> To a great mind, nothing is little -->
