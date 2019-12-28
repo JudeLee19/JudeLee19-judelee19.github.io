@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Dongyub-Lee (jude.lee@kakaocorp.com)
+## About Me
 
 <img class="profile-picture" src="profile.jpg">
 I obtained a Master Degree in computer science from the Korea University with a focus on a NLP such as dialog system and sequence labeling problems. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. After MS degree, I'm working at Kakao corporation.
