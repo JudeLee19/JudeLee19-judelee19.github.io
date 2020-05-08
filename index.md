@@ -9,29 +9,36 @@ I obtained a Master Degree in computer science from the Korea University with a 
 
  <!-- This is a jekyll based resume template. You can find the full source code on [GitHub] --> 
  <!-- (https://github.com/bk2dcradle/researcher) -->
+[*Google Scholar*](https://scholar.google.com/citations?user=Pz8yVqYAAAAJ&hl=en)
+
 
 ## Research Interest
 
-Dialogue System, Multimodal Learning
+Dialogue System, Quantitative analysis
 
 ## Publications
-1. Integrating breakdown detection into dialogue systems to improve knowledge management: encoding temporal utterances with memory attention<br>
+1. Reference and Document Aware Semantic Evaluation Methods for Korean Language Summarization<br>
+**Dongyub Lee**, Myeongcheol Shin, Taesun Whang, Seungwoo Cho, Byeongil Ko, Daniel Lee, Eunggyun Kim, Jaechoon Jo<br>
+[*arXiv preprint*](https://arxiv.org/abs/2005.03510)
+
+
+2. Integrating breakdown detection into dialogue systems to improve knowledge management: encoding temporal utterances with memory attention<br>
 SEOLHWA LEE, **DONGYUB LEE**, DANIAL, HOOSHYAR JAECHOON JO, HEUISEOK LIM <br>
 [*INFORMATION TECHNOLOGY AND MANAGEMENT-2019 (SCIE)*](https://link.springer.com/article/10.1007/s10799-019-00308-x)
 
-2. EmotionX-KU: BERT-Max based Contextual Emotion Classifier<br>
+3. EmotionX-KU: BERT-Max based Contextual Emotion Classifier<br>
 Kisu Yang, **Dongyub Lee**, Taesun Whang, Seolhwa Lee, Heuiseok Lim<br>
 [*IJCAI 2019 Workshop on the 7th Natural Language Processing for Social Media (Shared Task, EmotionX), 2019, Macau.*](https://arxiv.org/pdf/1906.11565.pdf) 
 
-3. Domain Adaptive Training BERT for Response Selection<br>
+4. Domain Adaptive Training BERT for Response Selection<br>
 Taesun Whang, **Dongyub Lee**, Chanhee Lee, Kisu Yang, Dongsuk Oh, HeuiSeok Lim<br>
 [*arXiv preprint*](https://arxiv.org/pdf/1908.04812.pdf)
 
-4. Enhanced Sequential Representation Augmented with Utterance-level Attention for Response Selection<br>
+5. Enhanced Sequential Representation Augmented with Utterance-level Attention for Response Selection<br>
 Taesun Whang, **Dongyub Lee**, Chanhee Lee, Heuiseok Lim<br>
 [*AAAI 2019 Workshop on Dialogue System Technology Challenges 7 (DSTC7), 2019, Hawaii, USA.*](http://workshop.colips.org/dstc7/papers/15.pdf)
 
-5. Character-Level Feature Extraction with Densely Connected Networks<br>
+6. Character-Level Feature Extraction with Densely Connected Networks<br>
 Chanhee Lee, Young-Bum Kim, **Dongyub Lee**, Heuiseok Lim<br>
 [*COLING 2018*](https://www.semanticscholar.org/paper/Character-Level-Feature-Extraction-with-Densely-Lee-Kim/2cf7fb912fb61066668cb6088f45ffbb16e2df03)
 
