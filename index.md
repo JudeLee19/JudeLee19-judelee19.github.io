@@ -17,32 +17,36 @@ I obtained a Master Degree in computer science from the Korea University with a 
 Dialogue System, Quantitative analysis
 
 ## Publications
-1. An Effective Domain Adaptive Post-Training Method for BERT in Response Selection<br>
+1. Do Response Selection Models Really Know What’s Next? Utterance Manipulation Strategies for Multi-turn Response Selection <br>
+Taesun Whang<sup>*</sup>, **Dongyub Lee<sup>*</sup>**, Dongsuk Oh, Chanhee Lee, Kijong Han, Dong-hun Lee, Saebyeok Lee [equal contribution] <br>
+[*arXiv preprint*](https://arxiv.org/abs/2009.04703)
+
+2. An Effective Domain Adaptive Post-Training Method for BERT in Response Selection<br>
 Taesun Whang, **Dongyub Lee**, Chanhee Lee, Kisu Yang, Dongsuk Oh, HeuiSeok Lim<br>
 [*Interspeech, 2020*](https://arxiv.org/abs/1908.04812v2)
 
-2. Reference and Document Aware Semantic Evaluation Methods for Korean Language Summarization<br>
+3. Reference and Document Aware Semantic Evaluation Methods for Korean Language Summarization<br>
 **Dongyub Lee**, Myeongcheol Shin, Taesun Whang, Seungwoo Cho, Byeongil Ko, Daniel Lee, Eunggyun Kim, Jaechoon Jo<br>
 [*arXiv preprint*](https://arxiv.org/abs/2005.03510)
 
 
-3. Integrating breakdown detection into dialogue systems to improve knowledge management: encoding temporal utterances with memory attention<br>
+4. Integrating breakdown detection into dialogue systems to improve knowledge management: encoding temporal utterances with memory attention<br>
 SEOLHWA LEE, **DONGYUB LEE**, DANIAL, HOOSHYAR JAECHOON JO, HEUISEOK LIM <br>
 [*INFORMATION TECHNOLOGY AND MANAGEMENT-2019 (SCIE)*](https://link.springer.com/article/10.1007/s10799-019-00308-x)
 
-4. EmotionX-KU: BERT-Max based Contextual Emotion Classifier<br>
+5. EmotionX-KU: BERT-Max based Contextual Emotion Classifier<br>
 Kisu Yang, **Dongyub Lee**, Taesun Whang, Seolhwa Lee, Heuiseok Lim<br>
 [*IJCAI 2019 Workshop on the 7th Natural Language Processing for Social Media (Shared Task, EmotionX), 2019, Macau.*](https://arxiv.org/pdf/1906.11565.pdf) 
 
-5. Domain Adaptive Training BERT for Response Selection<br>
+6. Domain Adaptive Training BERT for Response Selection<br>
 Taesun Whang, **Dongyub Lee**, Chanhee Lee, Kisu Yang, Dongsuk Oh, HeuiSeok Lim<br>
 [*arXiv preprint*](https://arxiv.org/pdf/1908.04812.pdf)
 
-6. Enhanced Sequential Representation Augmented with Utterance-level Attention for Response Selection<br>
+7. Enhanced Sequential Representation Augmented with Utterance-level Attention for Response Selection<br>
 Taesun Whang, **Dongyub Lee**, Chanhee Lee, Heuiseok Lim<br>
 [*AAAI 2019 Workshop on Dialogue System Technology Challenges 7 (DSTC7), 2019, Hawaii, USA.*](http://workshop.colips.org/dstc7/papers/15.pdf)
 
-7. Character-Level Feature Extraction with Densely Connected Networks<br>
+8. Character-Level Feature Extraction with Densely Connected Networks<br>
 Chanhee Lee, Young-Bum Kim, **Dongyub Lee**, Heuiseok Lim<br>
 [*COLING 2018*](https://www.semanticscholar.org/paper/Character-Level-Feature-Extraction-with-Densely-Lee-Kim/2cf7fb912fb61066668cb6088f45ffbb16e2df03)
 
@@ -89,8 +93,6 @@ Year | Award
 2018 | 카카오 연구 장학생
 2017 | 국어정보처리 경진대회 금상 (Named Entity Recoginition), 한글 및 한국어 정보처리 
 2016 | 소프트웨어 마에스트로 6기 (1단계 수료, 2단계 진출)
-2015 | 인하 스타트업 경진대회 동상
-2014 | 인하대학교 컴퓨터공학과 프로그래밍 공모전 2위
 
 
 
