@@ -5,7 +5,8 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="profile.jpg">
-I obtained a Master Degree in computer science from the Korea University with a focus on a NLP such as dialog system and sequence labeling problems. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. After MS degree, I'm working at Kakao corporation.
+I obtained a Master Degree in computer science from the Korea University with a focus on a NLP such as dialog system and sequence labeling problems. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. After MS degree, I'm working at Kakao corporation. Recently, I'm working on a dialogue summarization and dialogue response selection.
+
 
  <!-- This is a jekyll based resume template. You can find the full source code on [GitHub] --> 
  <!-- (https://github.com/bk2dcradle/researcher) -->
@@ -13,10 +14,9 @@ I obtained a Master Degree in computer science from the Korea University with a 
 
 
 ## Research Interest
+Dialogue Summarization, Dialogue System
 
-Dialogue System, Quantitative analysis
-
-## Publications
+## International Publications
 1. Do Response Selection Models Really Know What’s Next? Utterance Manipulation Strategies for Multi-turn Response Selection <br>
 Taesun Whang<sup>*</sup>, **Dongyub Lee<sup>*</sup>**, Dongsuk Oh, Chanhee Lee, Kijong Han, Dong-hun Lee, Saebyeok Lee [equal contribution] <br>
 [*arXiv preprint*](https://arxiv.org/abs/2009.04703)
@@ -52,35 +52,35 @@ Chanhee Lee, Young-Bum Kim, **Dongyub Lee**, Heuiseok Lim<br>
 
 ## Domestic Publications in Korean
 1. Adversarial Learning for Natural Language Understanding<br>
-**이동엽**, 황태선, 이찬희, 임희석<br>
-[*한글 및 한국어 정보처리-2018*]
+**Dongyub Lee**, Taesun Whang, Chanhee Lee, Heuiseok Lim<br>
+[*HCLT-2018*]
 
-2. Attention 기반의 대화 발화 예측 모델<br>
-황태선, **이동엽**, 이찬희, 임희석<br>
-[*한글 및 한국어 정보처리-2018*] 
+2. Attention-based Next Utterance Classification in Dialogue System <br>
+Taesun Whang, **Dongyub Lee**, Chanhee Lee, Heuiseok Lim<br>
+[*HCLT 2018*] 
 
 3. Bi-directional LSTM-CNN-CRF for Korean Named Entity Recognition System with Feature Augmentation<br>
-**이동엽**, 유원희, 임희석<br>
-[*한국융합학회논문지제 8권, 제 12호, pp.39-47, 2017.12*]
+**Dongyub Lee**, WonHui Yu, Heuiseok Lim<br>
+[*Journal of the Korea Convergence Society 8권, 제 12호, pp.39-47, 2017.12*]
 
-4. 도메인 특정 지식을 결합한 End-to-End Learning 방식의 한국어 식당 예약 대화 시스템 모델 개발<br>
-**이동엽**, 김경민, 임희석<br>
-[*한글 및 한국어 정보처리-2017*]
+4. Development of a Dialogue System Model for Korean Restaurant Reservation with End-to-End Learning Method Combining Domain Specific Knowledge <br>
+**Dongyub Lee**, Gyeongmin Kim, Heuiseok Lim<br>
+[*HCLT-2017*]
 
-5. 식당 예약 대화 시스템 개발을 위한 한국어 데이터셋 구축<br>
-김경민, **이동엽**, 임희석<br>
-[*한글 및 한국어 정보처리-2017*]
+5. Development of Korean Dialogue Dataset for Restaurant Reservation System <br>
+Gyeongmin Kim, **Dongyub Lee**, Heuiseok Lim<br>
+[*HCLT-2017*]
 
-6. End-to-end learning을 이용한 한국어 단문 응답 시스템 개발 <br>
-**이동엽**, 임희석<br>
+6. A Development of Korean Short Message Response System Based on End-to-end Learning <br>
+**Dongyub Lee**, Heuiseok Lim<br>
 [*KCC-2017*]
 
 7. User Sentiment Analysis on Amazon Fashion Product Review Using Word Embedding<br>
-**이동엽**, 조재춘, 임희석<br>
-[*한국융합학회논문지, 제8권, 제4호, pp.1-8, 2017.04*]
+**Dongyub Lee**, Jaechoon Jo, Heuiseok Lim<br>
+[*Journal of the Korea Convergence Society, 제8권, 제4호, pp.1-8, 2017.04*]
 
 8. CNN based feature augmentation for SVM classifier<br>
-**이동엽**, 남상협, 나승훈<br>
+**Dongyub Lee**, Namsang Hyup, SeungHoon Na<br>
 [*KCC-2016*]
 
 ## Honors & Awards
@@ -89,10 +89,10 @@ Year | Award
 :-----:|-------
 2019 | 2nd place in the EmotionX (shared task of SocialNLP), IJCAI 2019   
 2019 | Fourth place in the DSTC-7 tack-1 task, AAAI 2019
-2018 | 국어정보처리 경진대회 동상 (Dependency Parser), 한글 및 한국어 정보처리
-2018 | 카카오 연구 장학생
-2017 | 국어정보처리 경진대회 금상 (Named Entity Recoginition), 한글 및 한국어 정보처리 
-2016 | 소프트웨어 마에스트로 6기 (1단계 수료, 2단계 진출)
+2018 | Bronze Prize in the Korean Language Information Processing Competition (Dependency Parser), HCLT 2018
+2018 | Kakao Research Scholarship
+2017 | Gold Prize in Korean Language Information Processing Competition (Named Entity Recoginition), HCLT 2017
+2016 | Software Maestro 6th (Completion of Phase 1, Advance to Phase 2)
 
 
 
