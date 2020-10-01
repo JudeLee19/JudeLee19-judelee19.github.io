@@ -21,14 +21,14 @@ Dialogue Summarization, Dialogue System
 Taesun Whang<sup>*</sup>, **Dongyub Lee<sup>*</sup>**, Dongsuk Oh, Chanhee Lee, Kijong Han, Dong-hun Lee, Saebyeok Lee [equal contribution] <br>
 [*arXiv preprint*](https://arxiv.org/abs/2009.04703)
 
-2. An Effective Domain Adaptive Post-Training Method for BERT in Response Selection<br>
-Taesun Whang, **Dongyub Lee**, Chanhee Lee, Kisu Yang, Dongsuk Oh, HeuiSeok Lim<br>
-[*Interspeech, 2020*](https://arxiv.org/abs/1908.04812v2)
-
-3. Reference and Document Aware Semantic Evaluation Methods for Korean Language Summarization<br>
+2. Reference and Document Aware Semantic Evaluation Methods for Korean Language Summarization<br>
 **Dongyub Lee**, Myeongcheol Shin, Taesun Whang, Seungwoo Cho, Byeongil Ko, Daniel Lee, Eunggyun Kim, Jaechoon Jo<br>
-[*arXiv preprint*](https://arxiv.org/abs/2005.03510)
+[*COLING 2020*](https://arxiv.org/abs/2005.03510)
 
+
+3. An Effective Domain Adaptive Post-Training Method for BERT in Response Selection<br>
+Taesun Whang, **Dongyub Lee**, Chanhee Lee, Kisu Yang, Dongsuk Oh, HeuiSeok Lim<br>
+[*Interspeech 2020*](https://arxiv.org/abs/1908.04812v2)
 
 4. Integrating breakdown detection into dialogue systems to improve knowledge management: encoding temporal utterances with memory attention<br>
 SEOLHWA LEE, **DONGYUB LEE**, DANIAL, HOOSHYAR JAECHOON JO, HEUISEOK LIM <br>
