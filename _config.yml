@@ -1,4 +1,4 @@
-title: Dongyub Lee (jude.lee@kakaocorp.com)
+title: Dongyub Lee (dongyub63@gmail.com)
 url: "https://judelee19.github.io"
 baseurl: ""
 
@@ -19,6 +19,6 @@ nav:
  - name: "About"
    link: ""
  - name: "CV"
-   link: "taesunwhang_cv.pdf"
+   link: "dongyublee_cv.pdf"
 
 remote_theme: ankitsultana/researcher@gem
