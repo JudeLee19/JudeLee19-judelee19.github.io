@@ -5,8 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="profile.jpg">
-I obtained a Master Degree in computer science from the Korea University with a focus on a NLP such as dialog system and sequence labeling problems. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. After MS degree, I'm working at Kakao corporation. Recently, I'm working on a dialogue summarization and dialogue response selection.
-
+I obtained a Master Degree in computer science from the Korea University with a focus on an NLP such as dialogue system and sequence labeling problems. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. After a Master degree, I'm working at Kakao corporation. Recently, I'm working on a dialogue summarization and dialogue response selection projects.
 
  <!-- This is a jekyll based resume template. You can find the full source code on [GitHub] --> 
  <!-- (https://github.com/bk2dcradle/researcher) -->
@@ -16,14 +15,23 @@ I obtained a Master Degree in computer science from the Korea University with a 
 ## Research Interest
 Dialogue Summarization, Dialogue System
 
+## Education
+**Korea University** (2017 ~ 2019)
+
+Master of Engineering / Computer Engineering
+
+**Inha University** (2012 ~ 2017)
+
+Bachelor of Engineering / Computer Engineering
+
 ## International Publications
 1. Auxiliary Sequence Labeling Tasks for Disfluency Detection <br>
 **Dongyub Lee**, Byeongil Ko, Myeong Cheol Shin, Taesun Whang, Daniel Lee, Eun Hwa Kim, EungGyun Kim, Jaechoon Jo <br>
-[*arXiv preprint*](https://arxiv.org/abs/2011.04512)
+[*arXiv preprint*](https://arxiv.org/abs/2011.04512) (under review)
 
 2. Do Response Selection Models Really Know What’s Next? Utterance Manipulation Strategies for Multi-turn Response Selection <br>
 Taesun Whang<sup>*</sup>, **Dongyub Lee<sup>*</sup>**, Dongsuk Oh, Chanhee Lee, Kijong Han, Dong-hun Lee, Saebyeok Lee [equal contribution] <br>
-[*arXiv preprint*](https://arxiv.org/abs/2009.04703)
+[*arXiv preprint*](https://arxiv.org/abs/2009.04703) (under review)
 
 3. Reference and Document Aware Semantic Evaluation Methods for Korean Language Summarization<br>
 **Dongyub Lee**, Myeongcheol Shin, Taesun Whang, Seungwoo Cho, Byeongil Ko, Daniel Lee, Eunggyun Kim, Jaechoon Jo<br>
@@ -54,7 +62,7 @@ Taesun Whang, **Dongyub Lee**, Chanhee Lee, Heuiseok Lim<br>
 Chanhee Lee, Young-Bum Kim, **Dongyub Lee**, Heuiseok Lim<br>
 [*COLING 2018*](https://www.semanticscholar.org/paper/Character-Level-Feature-Extraction-with-Densely-Lee-Kim/2cf7fb912fb61066668cb6088f45ffbb16e2df03)
 
-## Domestic Publications in Korean
+## Domestic Publications
 1. Adversarial Learning for Natural Language Understanding<br>
 **Dongyub Lee**, Taesun Whang, Chanhee Lee, Heuiseok Lim<br>
 [*HCLT-2018*]
@@ -65,7 +73,7 @@ Taesun Whang, **Dongyub Lee**, Chanhee Lee, Heuiseok Lim<br>
 
 3. Bi-directional LSTM-CNN-CRF for Korean Named Entity Recognition System with Feature Augmentation<br>
 **Dongyub Lee**, WonHui Yu, Heuiseok Lim<br>
-[*Journal of the Korea Convergence Society 8권, 제 12호, pp.39-47, 2017.12*]
+[*Journal of the Korea Convergence Society Volume 8 Issue 12, pp.55-62, 2017.12*]
 
 4. Development of a Dialogue System Model for Korean Restaurant Reservation with End-to-End Learning Method Combining Domain Specific Knowledge <br>
 **Dongyub Lee**, Gyeongmin Kim, Heuiseok Lim<br>
@@ -87,7 +95,7 @@ Gyeongmin Kim, **Dongyub Lee**, Heuiseok Lim<br>
 **Dongyub Lee**, Namsang Hyup, SeungHoon Na<br>
 [*KCC-2016*]
 
-## Honors & Awards
+## Appointments & Awards
 
 Year | Award
 :-----:|-------
@@ -98,6 +106,12 @@ Year | Award
 2017 | Gold Prize in Korean Language Information Processing Competition (Named Entity Recoginition), HCLT 2017
 2016 | Software Maestro 6th (Completion of Phase 1, Advance to Phase 2)
 
+## Work Experiences
+- **Kakao Corporation** / NLP Researcher / Seoul / January, 2019 ~ Present
+- **NLP&AI Lab in Korea University** / Researcher / Seoul / December, 2016 ~ December, 2018
+- **BUZZNI** / Researcher / Seoul / December, 2015 ~ December, 2016
+- **PROSCORE** / Developer / Seoul / January, 2014 ~ June, 2015
+	
 
 
  <!-- This is a [link](http://google.com). Something *italics* and something **bold**.-->
