@@ -31,7 +31,7 @@ Bachelor of Engineering / Computer Engineering
 
 2. Do Response Selection Models Really Know What’s Next? Utterance Manipulation Strategies for Multi-turn Response Selection <br>
 Taesun Whang<sup>*</sup>, **Dongyub Lee<sup>*</sup>**, Dongsuk Oh, Chanhee Lee, Kijong Han, Dong-hun Lee, Saebyeok Lee [equal contribution] <br>
-[*arXiv preprint*](https://arxiv.org/abs/2009.04703) (under review)
+[*AAAI 2021*](https://arxiv.org/abs/2009.04703) (under review)
 
 3. Reference and Document Aware Semantic Evaluation Methods for Korean Language Summarization<br>
 **Dongyub Lee**, Myeongcheol Shin, Taesun Whang, Seungwoo Cho, Byeongil Ko, Daniel Lee, Eunggyun Kim, Jaechoon Jo<br>
