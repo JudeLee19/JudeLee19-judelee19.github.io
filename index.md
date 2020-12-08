@@ -35,7 +35,7 @@ Taesun Whang<sup>*</sup>, **Dongyub Lee<sup>*</sup>**, Dongsuk Oh, Chanhee Lee, 
 
 3. Reference and Document Aware Semantic Evaluation Methods for Korean Language Summarization<br>
 **Dongyub Lee**, Myeongcheol Shin, Taesun Whang, Seungwoo Cho, Byeongil Ko, Daniel Lee, Eunggyun Kim, Jaechoon Jo<br>
-[*COLING 2020*](https://arxiv.org/abs/2005.03510)
+[*COLING 2020*](https://www.aclweb.org/anthology/2020.coling-main.491/)
 
 
 4. An Effective Domain Adaptive Post-Training Method for BERT in Response Selection<br>
@@ -60,7 +60,7 @@ Taesun Whang, **Dongyub Lee**, Chanhee Lee, Heuiseok Lim<br>
 
 9. Character-Level Feature Extraction with Densely Connected Networks<br>
 Chanhee Lee, Young-Bum Kim, **Dongyub Lee**, Heuiseok Lim<br>
-[*COLING 2018*](https://www.semanticscholar.org/paper/Character-Level-Feature-Extraction-with-Densely-Lee-Kim/2cf7fb912fb61066668cb6088f45ffbb16e2df03)
+[*COLING 2018*](https://www.aclweb.org/anthology/C18-1273/)
 
 ## Domestic Publications
 1. Adversarial Learning for Natural Language Understanding<br>
