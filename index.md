@@ -14,15 +14,6 @@ I obtained a Master’s Degree in computer science from the Korea University. My
 ## Research Interest
 Dialogue Summarization, Dialogue System
 
-## Education
-**Korea University** (2017 ~ 2019)
-
-Master of Engineering / Computer Engineering
-
-**Inha University** (2012 ~ 2017)
-
-Bachelor of Engineering / Computer Engineering
-
 ## Academic Activities
 - Reviewer of ACL 2021
 
