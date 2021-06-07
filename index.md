@@ -18,13 +18,12 @@ Dialogue Summarization, Dialogue System
 - Reviewer of ACL 2021
 
 ## International Publications
-**[Preprints]**
 
-Auxiliary Sequence Labeling Tasks for Disfluency Detection <br>
-**Dongyub Lee**, Byeongil Ko, Myeong Cheol Shin, Taesun Whang, Daniel Lee, Eun Hwa Kim, EungGyun Kim, Jaechoon Jo <br>
-[*arXiv preprint*](https://arxiv.org/abs/2011.04512)
 
 **[2021]**
+Auxiliary Sequence Labeling Tasks for Disfluency Detection <br>
+**Dongyub Lee**, Byeongil Ko, Myeong Cheol Shin, Taesun Whang, Daniel Lee, Eun Hwa Kim, EungGyun Kim, Jaechoon Jo <br>
+[*INTERSPEECH 2021*](https://arxiv.org/abs/2011.04512)
 
 Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis <br>
 {Shinhyeok Oh, **Dongyub Lee}<sup>*</sup>**, Taesun Whang, IlNam Park, Gaeun Seo, EungGyun Kim, Harksoo Kim [<sup>*</sup>equal contribution] <br>
