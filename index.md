@@ -5,17 +5,17 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="profile.jpg">
-I obtained a Master’s Degree in computer science from the Korea University. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. Currently, I’m working at Kakao corporation focusing on a dialogue summarization and dialogue system.
+I obtained a Master’s Degree in computer science from the Korea University. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. Currently, I’m working at Kakao corporation focusing on dialogue and summarization systems.
 
 **[Google Scholar]**: [*link*](https://scholar.google.com/citations?user=Pz8yVqYAAAAJ&hl=en)
 
 **[Linkdin]**:[*link*](https://www.linkedin.com/in/dongyub-lee-56a65810a/)
 
 ## Research Interest
-Dialogue Summarization, Dialogue System
+Dialogue System, Summarization
 
 ## Academic Activities
-- Reviewer of ACL 2021
+- Reviewer of ACL 2021 and EMNLP 2021.
 
 ## International Publications
 
