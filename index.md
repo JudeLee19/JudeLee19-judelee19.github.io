@@ -114,12 +114,6 @@ Year | Award
 2017 | Gold Prize in Korean Language Information Processing Competition (Named Entity Recoginition), HCLT 2017
 2016 | Software Maestro 6th (Completion of Phase 1, Advance to Phase 2)
 
-## Work Experiences
-- **Kakao Corporation** / NLP Researcher / Seoul / January, 2019 ~ Present
-- **NLP&AI Lab in Korea University** / Researcher / Seoul / December, 2016 ~ December, 2018
-- **BUZZNI** / Researcher / Seoul / December, 2015 ~ December, 2016
-- **PROSCORE** / Developer / Seoul / January, 2014 ~ June, 2015
-	
 
 
  <!-- This is a [link](http://google.com). Something *italics* and something **bold**.-->
