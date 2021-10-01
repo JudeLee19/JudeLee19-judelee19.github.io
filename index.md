@@ -18,6 +18,8 @@ Dialogue System, Summarization
 - Reviewer of ACL 2021 and EMNLP 2021.
 
 ## News
+* <span style = "font-size:0.9em">SEP 2021: Our paper on dialogue summarization got accepted to [NewSum, EMNLP 2021](https://summarization2021.github.io/).<br></span>
+
 * <span style = "font-size:0.9em">JUN 2021: Our paper on disfluency detection got accepted to [INTERSPEECH 2021](https://www.interspeech2021.org/).<br></span>
 * <span style = "font-size:0.9em">MAY 2021: Our paper on aspect-based sentiment analysis ([DCRAN](https://aclanthology.org/2021.acl-short.63.pdf)) got accepted to [ACL 2021](https://2021.aclweb.org/).<br></span>
 * <span style = "font-size:0.9em">DEC 2020: Our paper on multi-turn dialog system ([UMS](https://arxiv.org/pdf/2009.04703.pdf)) got accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).<br></span>
@@ -29,6 +31,11 @@ Dialogue System, Summarization
 
 
 **[2021]**
+
+Capturing Speaker Incorrectness: Speaker-Focused Post-Correction for Abstractive Dialogue Summarization
+**Dongyub Lee**, Jungwoo Lim, Taesun Whang, chanhee lee, Seungwoo Cho, Mingun Park and Heuiseok Lim <br>
+[*NewSum, EMNLP 2021*](https://summarization2021.github.io/)
+
 
 Auxiliary Sequence Labeling Tasks for Disfluency Detection <br>
 **Dongyub Lee**, Byeongil Ko, Myeong Cheol Shin, Taesun Whang, Daniel Lee, Eun Hwa Kim, EungGyun Kim, Jaechoon Jo <br>
