@@ -18,6 +18,7 @@ Dialogue System, Summarization
 - Reviewer of ACL 2021 and EMNLP 2021.
 
 ## News
+* <span style = "font-size:0.9em">Oct 2021: In the Dialogue State Tracking Challenge (DSTC 10) Track2, we achieved 3rd place in Task1 and 5th place in Task2 [DSTC10](https://dstc10.dstc.community/home).<br></span>
 * <span style = "font-size:0.9em">SEP 2021: Our paper on dialogue summarization got accepted to [NewSum, EMNLP 2021](https://summarization2021.github.io/).<br></span>
 * <span style = "font-size:0.9em">JUN 2021: Our paper on disfluency detection got accepted to [INTERSPEECH 2021](https://www.interspeech2021.org/).<br></span>
 * <span style = "font-size:0.9em">MAY 2021: Our paper on aspect-based sentiment analysis ([DCRAN](https://aclanthology.org/2021.acl-short.63.pdf)) got accepted to [ACL 2021](https://2021.aclweb.org/).<br></span>
@@ -121,6 +122,7 @@ Gyeongmin Kim, **Dongyub Lee**, Heuiseok Lim<br>
 
 Year | Award
 :-----:|-------
+2021 | 3rd place in Task1 and 5th place in Task2, Dialogue State Tracking Challenge (DSTC 10) Track2, AAAI 2022
 2019 | 2nd place in the EmotionX (shared task of SocialNLP), IJCAI 2019   
 2019 | Fourth place in the DSTC-7 tack-1 task, AAAI 2019
 2018 | Bronze Prize in the Korean Language Information Processing Competition (Dependency Parser), HCLT 2018
