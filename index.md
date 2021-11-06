@@ -18,7 +18,7 @@ Dialogue System, Summarization
 - Reviewer of ACL 2021 and EMNLP 2021.
 
 ## News
-* <span style = "font-size:0.9em">Oct 2021: In the Dialogue State Tracking Challenge (DSTC 10) Track2, we achieved 3rd place in Task1 and 5th place in Task2 [DSTC10](https://dstc10.dstc.community/home).<br></span>
+* <span style = "font-size:0.9em">Oct 2021: In the Dialogue State Tracking Challenge (DSTC 10) Track2, we achieved 3rd place in Task1 and 5th place in Task2 [DSTC10](https://aclanthology.org/2021.newsum-1.8/).<br></span>
 * <span style = "font-size:0.9em">SEP 2021: Our paper on dialogue summarization got accepted to [NewSum, EMNLP 2021](https://summarization2021.github.io/).<br></span>
 * <span style = "font-size:0.9em">JUN 2021: Our paper on disfluency detection got accepted to [INTERSPEECH 2021](https://www.interspeech2021.org/).<br></span>
 * <span style = "font-size:0.9em">MAY 2021: Our paper on aspect-based sentiment analysis ([DCRAN](https://aclanthology.org/2021.acl-short.63.pdf)) got accepted to [ACL 2021](https://2021.aclweb.org/).<br></span>
