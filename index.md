@@ -18,17 +18,24 @@ Dialogue System, Summarization
 - Reviewer of ACL 2021 and EMNLP 2021.
 
 ## News
+* <span style = "font-size:0.9em">Dec 2021: Our paper on Dialogue State Tracking accepted to [AAAI 2022, DSTC10](https://dstc10.dstc.community/home).<br></span>
+
 * <span style = "font-size:0.9em">Oct 2021: In the Dialogue State Tracking Challenge (DSTC 10) Track2, we achieved 3rd place in Task1 and 5th place in Task2 [DSTC10](https://dstc10.dstc.community/home).<br></span>
-* <span style = "font-size:0.9em">SEP 2021: Our paper on dialogue summarization got accepted to [NewSum, EMNLP 2021](https://aclanthology.org/2021.newsum-1.8/).<br></span>
-* <span style = "font-size:0.9em">JUN 2021: Our paper on disfluency detection got accepted to [INTERSPEECH 2021](https://www.interspeech2021.org/).<br></span>
-* <span style = "font-size:0.9em">MAY 2021: Our paper on aspect-based sentiment analysis ([DCRAN](https://aclanthology.org/2021.acl-short.63.pdf)) got accepted to [ACL 2021](https://2021.aclweb.org/).<br></span>
+* <span style = "font-size:0.9em">SEP 2021: Our paper on dialogue summarization accepted to [NewSum, EMNLP 2021](https://aclanthology.org/2021.newsum-1.8/).<br></span>
+* <span style = "font-size:0.9em">JUN 2021: Our paper on disfluency detection accepted to [INTERSPEECH 2021](https://www.interspeech2021.org/).<br></span>
+* <span style = "font-size:0.9em">MAY 2021: Our paper on aspect-based sentiment analysis ([DCRAN](https://aclanthology.org/2021.acl-short.63.pdf)) accepted to [ACL 2021](https://2021.aclweb.org/).<br></span>
 * <span style = "font-size:0.9em">DEC 2020: Our paper on multi-turn dialog system ([UMS](https://arxiv.org/pdf/2009.04703.pdf)) got accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).<br></span>
-* <span style = "font-size:0.9em">OCT 2020: Our paper on summarization ([RDASS](https://www.aclweb.org/anthology/2020.coling-main.491.pdf)) got accepted to [COLING 2020](https://coling2020.org/).<br></span>
+* <span style = "font-size:0.9em">OCT 2020: Our paper on summarization ([RDASS](https://www.aclweb.org/anthology/2020.coling-main.491.pdf)) accepted to [COLING 2020](https://coling2020.org/).<br></span>
 <!--* <span style = "font-size:0.9em">JUL 2020: Our paper on multi-turn dialog system got accepted to [INTERSPEECH 2020](http://www.interspeech2020.org/).<br></span>-->
 <!--* <span style = "font-size:0.9em">AUG 2019: Our system ranked 2nd place at [EmotionX](https://sites.google.com/view/emotionx2019/) (shared task of [SocialNLP@IJCAI2019](https://sites.google.com/site/socialnlp2019/)).<br></span>-->
 
 ## International Publications
 
+**[2022]**
+
+Towards Filling the Gap between Written and Spoken Dialogues for Multi-Domain Dialogue State Tracking <br>
+Taesun Whang, Jungwoo Limm, **Dongyub Lee** <br>
+[*DSTC10, AAAI 2022*](https://aaai.org/Conferences/AAAI-22/)
 
 **[2021]**
 
