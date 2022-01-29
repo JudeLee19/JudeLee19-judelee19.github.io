@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="profile.jpg">
-I obtained a Master’s Degree in computer science from the Korea University. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. Currently, I’m working at Kakao corporation focusing on dialogue and summarization systems.
+I obtained a Master’s Degree in computer science from the Korea University. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. Currently, I’m working for Naver Search US since Dec 20, 2021.
 
 **[Google Scholar]**: [*link*](https://scholar.google.com/citations?user=Pz8yVqYAAAAJ&hl=en)
 
@@ -15,9 +15,13 @@ I obtained a Master’s Degree in computer science from the Korea University. My
 Dialogue System, Summarization
 
 ## Academic Activities
+- Reviewer of ACL 2022 and NAACL 2022.
 - Reviewer of ACL 2021 and EMNLP 2021.
 
 ## News
+* <span style = "font-size:0.9em">Dec 2021: Started working for Naver Search US. <br></span>
+
+
 * <span style = "font-size:0.9em">Dec 2021: Our paper on Dialogue State Tracking accepted to [AAAI 2022, DSTC10](https://dstc10.dstc.community/home).<br></span>
 
 * <span style = "font-size:0.9em">Oct 2021: In the Dialogue State Tracking Challenge (DSTC 10) Track2, we achieved 3rd place in Task1 and 5th place in Task2 [DSTC10](https://dstc10.dstc.community/home).<br></span>
