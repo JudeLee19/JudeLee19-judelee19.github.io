@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="profile.jpg">
-I obtained a Master’s Degree in computer science from the Korea University. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. Currently, I’m working for Naver Search US since Dec 20, 2021.
+I obtained a Master’s Degree in computer science from the Korea University. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. Currently, I’m working for Naver Search since Dec 20, 2021.
 
 **[Google Scholar]**: [*link*](https://scholar.google.com/citations?user=Pz8yVqYAAAAJ&hl=en)
 
