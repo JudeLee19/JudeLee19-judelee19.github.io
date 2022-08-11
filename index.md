@@ -19,7 +19,7 @@ Dialogue System, Summarization
 - Reviewer of ACL 2021 and EMNLP 2021.
 
 ## News
-* <span style = "font-size:0.9em">Dec 2021: Started working for Naver Search US. <br></span>
+* <span style = "font-size:0.9em">Dec 2021: Started working for Naver Search. <br></span>
 
 
 * <span style = "font-size:0.9em">Dec 2021: Our paper on Dialogue State Tracking accepted to [AAAI 2022, DSTC10](https://dstc10.dstc.community/home).<br></span>
