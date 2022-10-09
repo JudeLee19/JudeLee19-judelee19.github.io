@@ -36,6 +36,9 @@ Dialogue System, Summarization
 ## International Publications
 
 **[2022]**
+You Truly Understand What I Need : Intellectual and Friendly Dialog Agents grounding Persona and Knowledge <br>
+Jungwoo Lim, Myugnhoon Kang, Yuna Hur, Seung Won Jeong, Jinsung Kim, Yoonna Jang, **Dongyub Lee**, Hyesung Ji, DongHoon Shin, Seungryong Kim and Heuiseok Lim <br>
+[*EMNLP 2022 (findings)*](https://2022.emnlp.org/)
 
 Towards Filling the Gap between Written and Spoken Dialogues for Multi-Domain Dialogue State Tracking <br>
 Taesun Whang, Jungwoo Limm, **Dongyub Lee** <br>
