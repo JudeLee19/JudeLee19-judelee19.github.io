@@ -19,6 +19,10 @@ Dialogue System, Summarization
 - Reviewer of ACL 2021 and EMNLP 2021.
 
 ## News
+
+* <span style = "font-size:0.9em">Oct 2022: Our paper on Dialogue Systems grounding Persona and Knowledge accepted to [EMNLP 2022, Findings](https://2022.emnlp.org/). Congrats.<br></span>
+
+
 * <span style = "font-size:0.9em">Dec 2021: Started working for Naver Search. <br></span>
 
 
