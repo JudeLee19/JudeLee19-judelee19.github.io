@@ -5,7 +5,7 @@ layout: default
 ## Dongyub (Jude) Lee | U.S. Green Card Holder
 
 <img class="profile-picture" src="profile.jpg">
-I am a computer scientist and AI researcher with a deep expertise in natural language processing (NLP) and the engineering of practical AI systems. I am currently working at the U.S. subsidiary of Naver, a leading Korean tech company. I've been deeply involved in enhancing Large Language Models (LLMs) utilizing feedback learning techniques. As a significant outcome of my recent efforts, we have launched 'Naver Cue', a generative AI that integrates Naver’s web search, shopping, and place to accurately understand user question and enable systematic searches. Before joining Naver, I served as an AI research engineer at Kakao Corporation, where I developed my expertise in NLP, particularly in task-oriented and open-domain dialogue systems.
+I am a computer scientist and AI researcher with a deep expertise in natural language processing (NLP) and the engineering of practical AI systems. I am currently working at the U.S. subsidiary of Naver, a leading Korean tech company. I've been deeply involved in enhancing Large Language Models (LLMs) utilizing feedback learning methods. Before joining Naver, I served as an AI research engineer at Kakao Corporation, where I developed my expertise in NLP, particularly in task-oriented and open-domain dialogue systems.
 
 **[Google Scholar]**: [*link*](https://scholar.google.com/citations?user=Pz8yVqYAAAAJ&hl=en)
 
