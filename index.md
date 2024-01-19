@@ -15,6 +15,7 @@ I am a computer scientist and AI researcher with a deep expertise in natural lan
 Dialogue System, Summarization
 
 ## Academic Activities
+- Reviewer of NAACL 2023, ACL 2023, and ARR 2023.
 - Reviewer of ACL 2022 and NAACL 2022.
 - Reviewer of ACL 2021 and EMNLP 2021.
 
@@ -38,6 +39,11 @@ Dialogue System, Summarization
 <!--* <span style = "font-size:0.9em">AUG 2019: Our system ranked 2nd place at [EmotionX](https://sites.google.com/view/emotionx2019/) (shared task of [SocialNLP@IJCAI2019](https://sites.google.com/site/socialnlp2019/)).<br></span>-->
 
 ## International Publications
+
+**[2024]**
+Ask, Assess, and Refine: Rectifying Factual Consistency and Hallucination in LLMs with Metric-Guided Feedback Learning <br>
+**Dongyub Lee**, Eunhwan Park, Hodong Lee, Heuiseok Lim <br>
+[*EACL 2024*](https://2024.eacl.org/)
 
 **[2022]**
 
@@ -104,38 +110,6 @@ Character-Level Feature Extraction with Densely Connected Networks<br>
 Chanhee Lee, Young-Bum Kim, **Dongyub Lee**, Heuiseok Lim<br>
 [*COLING 2018*](https://www.aclweb.org/anthology/C18-1273/)
 
-## Domestic Publications
-1. Adversarial Learning for Natural Language Understanding<br>
-**Dongyub Lee**, Taesun Whang, Chanhee Lee, Heuiseok Lim<br>
-[*HCLT-2018*]
-
-2. Attention-based Next Utterance Classification in Dialogue System <br>
-Taesun Whang, **Dongyub Lee**, Chanhee Lee, Heuiseok Lim<br>
-[*HCLT 2018*] 
-
-3. Bi-directional LSTM-CNN-CRF for Korean Named Entity Recognition System with Feature Augmentation<br>
-**Dongyub Lee**, WonHui Yu, Heuiseok Lim<br>
-[*Journal of the Korea Convergence Society Volume 8 Issue 12, pp.55-62, 2017.12*]
-
-4. Development of a Dialogue System Model for Korean Restaurant Reservation with End-to-End Learning Method Combining Domain Specific Knowledge <br>
-**Dongyub Lee**, Gyeongmin Kim, Heuiseok Lim<br>
-[*HCLT-2017*]
-
-5. Development of Korean Dialogue Dataset for Restaurant Reservation System <br>
-Gyeongmin Kim, **Dongyub Lee**, Heuiseok Lim<br>
-[*HCLT-2017*]
-
-6. A Development of Korean Short Message Response System Based on End-to-end Learning <br>
-**Dongyub Lee**, Heuiseok Lim<br>
-[*KCC-2017*]
-
-7. User Sentiment Analysis on Amazon Fashion Product Review Using Word Embedding<br>
-**Dongyub Lee**, Jaechoon Jo, Heuiseok Lim<br>
-[*Journal of the Korea Convergence Society, 제8권, 제4호, pp.1-8, 2017.04*]
-
-8. CNN based feature augmentation for SVM classifier<br>
-**Dongyub Lee**, Namsang Hyup, SeungHoon Na<br>
-[*KCC-2016*]
 
 ## Appointments & Awards
 
