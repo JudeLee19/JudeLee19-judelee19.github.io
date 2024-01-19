@@ -21,7 +21,10 @@ Dialogue System, Summarization
 
 ## News
 
-* <span style = "font-size:0.9em">Oct 2022: Our paper on Dialogue Systems grounding Persona and Knowledge accepted to [EMNLP 2022, Findings](https://2022.emnlp.org/). Congrats.<br></span>
+* <span style = "font-size:0.9em">Jan 2024: Our paper  accepted to [EMNLP 2022, Findings](https://2022.emnlp.org/). Congrats.<br></span>
+
+
+* <span style = "font-size:0.9em">Oct 2022: Our paper "Ask, Assess, and Refine: Rectifying Factual Consistency and Hallucination in LLMs with Metric-Guided Feedback Learning" has been accepted to [EACL 2024](https://2024.eacl.org/).<br></span>
 
 
 * <span style = "font-size:0.9em">Dec 2021: Started working for Naver Search. <br></span>
