@@ -47,8 +47,9 @@ Dialogue System, Summarization
 ## International Publications
 
 **[2024]**
+
 Tree-of-Question: Structured Retrieval Framework for Korean Question Answering Systems <br>
-**Dongyub Lee**, Younghun Jeong, Hwayeon Kim, Hongyeon Yu,Seunghyun Han, Taesun Whang, Seungwoo Cho, Chanhee Lee, Gunsu Lee, Youngbum Kim
+**Dongyub Lee**, Younghun Jeong, Hwayeon Kim, Hongyeon Yu,Seunghyun Han, Taesun Whang, Seungwoo Cho, Chanhee Lee, Gunsu Lee, Youngbum Kim <br>
 [*NAACL 2024, Industry Track*](https://2024.naacl.org/)
 
 
