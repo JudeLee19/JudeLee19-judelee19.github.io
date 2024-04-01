@@ -20,6 +20,9 @@ Dialogue System, Summarization
 - Reviewer of ACL 2021 and EMNLP 2021.
 
 ## News
+ 
+* <span style = "font-size:0.9em">Mar 2024: Our paper "Tree-of-Question: Structured Retrieval Framework for Korean Question Answering Systems" has been accepted to [NAACL 2024, Industry Track](https://2024.naacl.org/). Congrats.<br></span>
+
 
 * <span style = "font-size:0.9em">Jan 2024: Our paper "Ask, Assess, and Refine: Rectifying Factual Consistency and Hallucination in LLMs with Metric-Guided Feedback Learning" has been accepted to [EACL 2024](https://2024.eacl.org/). Congrats.<br></span>
 
@@ -44,10 +47,14 @@ Dialogue System, Summarization
 ## International Publications
 
 **[2024]**
+Tree-of-Question: Structured Retrieval Framework for Korean Question Answering Systems <br>
+**Dongyub Lee**, Younghun Jeong, Hwayeon Kim, Hongyeon Yu,Seunghyun Han, Taesun Whang, Seungwoo Cho, Chanhee Lee, Gunsu Lee, Youngbum Kim
+[*NAACL 2024, Industry Track*](https://2024.naacl.org/)
+
 
 Ask, Assess, and Refine: Rectifying Factual Consistency and Hallucination in LLMs with Metric-Guided Feedback Learning <br>
 **Dongyub Lee**, Eunhwan Park, Hodong Lee, Heuiseok Lim <br>
-[*EACL 2024*](https://2024.eacl.org/)
+[*EACL 2024*](https://aclanthology.org/2024.eacl-long.149/)
 
 **[2022]**
 
