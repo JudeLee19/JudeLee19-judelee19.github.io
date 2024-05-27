@@ -5,7 +5,8 @@ layout: default
 ## Dongyub (Jude) Lee | U.S. Green Card Holder
 
 <img class="profile-picture" src="profile.jpg">
-I am a computer scientist and AI researcher with a deep expertise in natural language processing (NLP) and the engineering of practical AI systems. I am currently working at the U.S. subsidiary of Naver, a leading Korean tech company. I've been deeply involved in enhancing Large Language Models (LLMs) utilizing feedback learning methods. Before joining Naver, I served as an AI research engineer at Kakao Corporation, where I developed my expertise in NLP, particularly in task-oriented and open-domain dialogue systems.
+I am a computer scientist and AI researcher with deep expertise in natural language processing (NLP) and the engineering of practical AI systems. Since May 2024, I have been working as an AI Research Scientist at Zoom. Before joining Zoom, I was part of the U.S. subsidiary of Naver, a leading Korean tech company, where I contributed significantly to the successful launch of 'Naver Cue.' This system, utilizing retrieval augmented generation (RAG), is now widely used across South Korea. Prior to Naver, I served as an AI research engineer at Kakao Corporation, developing my expertise in both task-oriented and open-domain dialogue systems.
+
 
 **[Google Scholar]**: [*link*](https://scholar.google.com/citations?user=Pz8yVqYAAAAJ&hl=en)
 
@@ -20,6 +21,9 @@ Dialogue System, Summarization
 - Reviewer of ACL 2021 and EMNLP 2021.
 
 ## News
+
+* <span style="font-size:0.9em">May 2024: I have joined [Zoom](https://zoom.us/) as an AI Research Scientist!</span><br>
+
  
 * <span style = "font-size:0.9em">Mar 2024: Our paper "Tree-of-Question: Structured Retrieval Framework for Korean Question Answering Systems" has been accepted to [NAACL 2024, Industry Track](https://2024.naacl.org/). Congrats.<br></span>
 
